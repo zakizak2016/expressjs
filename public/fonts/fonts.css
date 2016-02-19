@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Poppins_400_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Poppins_400_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Poppins_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/poppins/v1/SFusu2OSFiUt40t5QNWvnA.woff */
+        url(Poppins_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/poppins/v1/87Va_S9dMbGdG4LlxT5ySQLUuEpTyoUstqEm5AMlJo4.ttf */
+        url(Poppins_400_normal.svg#Poppins_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=j_KvOvu4ZZaZ9f72G1iz0Q&skey=87759fb096548f6d#Poppins */
+}
+
+body{
+	font-family: "Poppins";
+}
